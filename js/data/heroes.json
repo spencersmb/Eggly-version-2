@@ -1,0 +1,69 @@
+{
+  "heroes": [
+    {
+      "name": "Nuna",
+      "title": "Science behind the D-Day landings",
+      "description": "How innovations in science and engineering made the D-Day landings possible with giant troop tanks and tanks that could drive on water.",
+      "pubDate": "2014-05-01",
+      "tags": [
+        "tag1",
+        "tag4",
+        "tag2"
+      ],
+      "attack": "Agil"
+    },
+    {
+      "name": "Casey",
+      "title": "Computex: Intel shows off new tech",
+      "description": "Intel is showcasing a laptop with a 3D camera and motion control technology at the Computex show in Taiwan.",
+      "pubDate": "2014-05-12",
+      "tags": [
+        "tag2",
+        "tag3"
+      ],
+      "attack": "Int"
+    },
+    {
+      "name": "Tripp",
+      "title": "Game not over: Tetris turns 30",
+      "description": "One of the world's most popular and enduring video games, Tetris, celebrates its 30th anniversary this week.",
+      "pubDate": "2014-05-20",
+      "tags": [
+        "tag1"
+      ],
+      "attack": "Str"
+    },
+    {
+      "name": "Spencer",
+      "title": "Berners-Lee: An unlikely fraud victim",
+      "description": "Mary Berners-Lee, the mother of the man who invented the world wide web, tells BBC Watchdog how she fell victim to courier fraud.",
+      "pubDate": "2014-01-23",
+      "tags": [
+        "tag4"
+      ],
+      "attack": "Str"
+    },
+    {
+      "name": "Teela",
+      "title": "Inside Asia's biggest technology show",
+      "description": "Computer makers are trying to recover lost revenue from declining PC sales, but also stay ahead of the ever-changing trends in technology",
+      "pubDate": "2014-02-08",
+      "tags": [
+        "tag1",
+        "tag4"
+      ],
+      "attack": "Str"
+    },
+    {
+      "name": "Todd",
+      "title": "Science behind the D-Day landings",
+      "description": "How innovations in science and engineering made the D-Day landings possible with giant troop tanks and tanks that could drive on water.",
+      "pubDate": "2013-05-01",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "attack": "Str"
+    }
+  ]
+}
